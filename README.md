@@ -27,3 +27,11 @@ Sources:
 * [USA Statewise Latest Covid-19 Data at kaggle.com](https://www.kaggle.com/anandhuh/usa-statewise-latest-covid19-data?select=USA+Covid+Data.csv)
 
 * [New York Times us-states.csv at github.com](https://github.com/nytimes/covid-19-data)
+
+### HTML
+
+View the final draft as a html webpage using [this link](https://htmlpreview.github.io/?https://github.com/Scorpio-555/Semester-Project-Data-Analysis/blob/main/Data-Analysis-Semester-Project.html). Note: the visualizations are located at the top of the page and the R code is found at the bottom.
+
+### GitHub Repository
+
+View the GitHub Repository using [this link](https://github.com/Scorpio-555/Semester-Project-Data-Analysis).
