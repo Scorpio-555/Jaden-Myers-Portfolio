@@ -35,3 +35,18 @@ View the final draft as a html webpage using [this link](https://htmlpreview.git
 ### GitHub Repository
 
 View the GitHub Repository using [this link](https://github.com/Scorpio-555/Semester-Project-Data-Analysis).
+
+## Python Data Structure Tutorials
+
+### Summary: 
+
+This assignment required me to create a tutorial that teaches how to use data structures for programmers who have basic Python knowledge. The data structures covered by the turorial are Stack, Set, and Binary Search Tree.
+
+### GitHub Markdown 
+
+View the tutorial by navigating to the [Welcome.md](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/00Welcome.md) file.
+
+### GitHub Repository
+
+View the GitHub Repository using [this link](https://github.com/Scorpio-555/cse-212-Final-Project).
+
