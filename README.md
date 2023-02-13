@@ -36,6 +36,8 @@ View the final draft as a html webpage using [this link](https://htmlpreview.git
 
 View the GitHub Repository using [this link](https://github.com/Scorpio-555/Semester-Project-Data-Analysis).
 
+***
+
 ## Test Driven Developement using Java
 
 ### Summary:
@@ -55,6 +57,8 @@ For this group assignment, we were tasked with creating an app using AndroidStud
 ### GitHub Repository
 
 View the GitHub Repository using [this link](https://github.com/Scorpio-555/medication_prescription_handler/tree/original/src/medication_prescription_handler).
+
+***
 
 ## Python Data Structure Tutorials
 
