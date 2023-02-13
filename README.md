@@ -68,11 +68,11 @@ This assignment required me to create a tutorial that teaches how to use data st
 
 ### Python Files
 
-[Solution-Stack.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/04Solution-Stack.py)
+* [Solution-Stack.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/04Solution-Stack.py)
 
-[Solution-Set.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/05Solution-Set.py)
+* [Solution-Set.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/05Solution-Set.py)
 
-[Solution-BST.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/06Solution-BST.py)
+* [Solution-BST.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/06Solution-BST.py)
 
 ### GitHub Markdown 
 
