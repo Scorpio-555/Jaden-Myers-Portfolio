@@ -66,6 +66,14 @@ View the GitHub Repository using [this link](https://github.com/Scorpio-555/medi
 
 This assignment required me to create a tutorial that teaches how to use data structures for programmers who have basic Python knowledge. The data structures covered by the turorial are Stack, Set, and Binary Search Tree.
 
+### Python Files
+
+[Solution-Stack.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/04Solution-Stack.py)
+
+[Solution-Set.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/05Solution-Set.py)
+
+[Solution-BST.py](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/06Solution-BST.py)
+
 ### GitHub Markdown 
 
 View the tutorial by navigating to the [Welcome.md](https://github.com/Scorpio-555/cse-212-Final-Project/blob/main/00Welcome.md) file.
