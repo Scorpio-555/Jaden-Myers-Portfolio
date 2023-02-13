@@ -30,7 +30,7 @@ Sources:
 
 ### HTML
 
-View the final draft as a html webpage using [this link](https://htmlpreview.github.io/?https://github.com/Scorpio-555/Semester-Project-Data-Analysis/blob/main/Data-Analysis-Semester-Project.html). Note: the visualizations are located at the top of the page and the R code is found at the bottom.
+View the final draft as an html webpage using [this link](https://htmlpreview.github.io/?https://github.com/Scorpio-555/Semester-Project-Data-Analysis/blob/main/Data-Analysis-Semester-Project.html). Note: the visualizations are located at the top of the page and the R code is found at the bottom.
 
 ### GitHub Repository
 
@@ -38,11 +38,11 @@ View the GitHub Repository using [this link](https://github.com/Scorpio-555/Seme
 
 ***
 
-## Test Driven Developement using Java
+## Test Driven Development using Java
 
 ### Summary:
 
-For this group assignment, we were tasked with creating an app using AndroidStudio. Only the part that I was assigned is included in this portfolio. As a group we decided to create an app for those who have diabetes. I was in charge of writing classes that handled medications the user was currently taking. The file [Main.java](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/Main.java) contains the test code from which the classes were developed using Test Driven Developement.
+For this group assignment, we were tasked with creating an app using AndroidStudio. Only the part that I was assigned is included in this portfolio. As a group we decided to create an app for those who have diabetes. I was in charge of writing classes that handled medications the user was currently taking. The file [Main.java](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/Main.java) contains the test code from which the classes were developed using Test Driven Development.
 
 ### Java Files
 
@@ -52,7 +52,7 @@ For this group assignment, we were tasked with creating an app using AndroidStud
 
 * [Java Class: Single Medication](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/SingleMedicationPrescriptionHandler.java)
 
-* [Java Class: Expired Perscription Alert](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/PrescriptionExpirationAlert.java)
+* [Java Class: Expired Prescription Alert](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/PrescriptionExpirationAlert.java)
 
 ### GitHub Repository
 
