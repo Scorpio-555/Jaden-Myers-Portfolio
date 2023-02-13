@@ -36,6 +36,26 @@ View the final draft as a html webpage using [this link](https://htmlpreview.git
 
 View the GitHub Repository using [this link](https://github.com/Scorpio-555/Semester-Project-Data-Analysis).
 
+## Test Driven Developement using Java
+
+### Summary:
+
+For this group assignment, we were tasked with creating an app using AndroidStudio. Only the part that I was assigned is included in this portfolio. As a group we decided to create an app for those who have diabetes. I was in charge of writing classes that handled medications the user was currently taking. The file [Main.java](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/Main.java) contains the test code from which the classes were developed using Test Driven Developement.
+
+### Java Files
+
+* [Main.java](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/Main.java)
+
+* [Java Class: Medication List](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/MedicationPrescriptionGeneralHandler.java)
+
+* [Java Class: Single Medication](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/SingleMedicationPrescriptionHandler.java)
+
+* [Java Class: Expired Perscription Alert](https://github.com/Scorpio-555/medication_prescription_handler/blob/original/src/medication_prescription_handler/PrescriptionExpirationAlert.java)
+
+### GitHub Repository
+
+View the GitHub Repository using [this link](https://github.com/Scorpio-555/medication_prescription_handler/tree/original/src/medication_prescription_handler).
+
 ## Python Data Structure Tutorials
 
 ### Summary: 
